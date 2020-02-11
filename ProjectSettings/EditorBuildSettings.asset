@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f689568712cb741ccb56018daf111841
+  - enabled: 1
+    path: Assets/Scenes/ActionButton.unity
+    guid: e02e5bb41eaa04bc2a88ebfbc137ad4b
+  - enabled: 1
+    path: Assets/Scenes/GlobalCommands.unity
+    guid: 185d97eb11ce5f0429ac81c204884803
+  - enabled: 1
+    path: Assets/Scenes/AddCommands.unity
+    guid: 8848aa69b971d4714b75cf9c728172a5
+  - enabled: 1
+    path: Assets/Scenes/TextToSpeech.unity
+    guid: d48b9a8ae5a294c37ad3c1a14d85ecfb
+  m_configObjects: {}
